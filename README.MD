@@ -1,5 +1,5 @@
 # Dataset
-Download PolypsDataset from http://tmp.link/f/603f21d6ad407
+Download PolypsDataset from  https://drive.google.com/drive/folders/1e2t5HhQf08sTAE_CPRNVgpi6YUKgQSHna
 
 # Training:
 - 'train.py' for full package model Training
